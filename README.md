@@ -20,9 +20,6 @@ Hello there! 👋 I'm Nafisath Sana , a student excited about tech. Here's a bit
 - 🔐 I love making the internet a safer place.
 - 🕵 Playing around with ethical hacking.
 
-## 🚀 Current Projects
-
-
 ## 📬 Let's Connect
 
 - 🌐 LinkedIn: http://linkedin.com/in/nafisath-sana-a86a04251
